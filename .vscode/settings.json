@@ -3,6 +3,16 @@
         "vector": "cpp",
         "iostream": "cpp",
         "string": "cpp",
-        "string_view": "cpp"
+        "string_view": "cpp",
+        "deque": "cpp",
+        "functional": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "__tree": "cpp",
+        "regex": "cpp",
+        "ios": "cpp"
     }
 }
