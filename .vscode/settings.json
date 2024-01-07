@@ -13,6 +13,7 @@
         "unordered_set": "cpp",
         "__tree": "cpp",
         "regex": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "queue": "cpp"
     }
 }
